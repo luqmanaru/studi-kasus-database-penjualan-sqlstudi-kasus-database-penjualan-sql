@@ -1,4 +1,4 @@
-# studi-kasus-database-penjualan-sqlstudi-kasus-database-penjualan-sql
+# studi-kasus-database-penjualan-sql
 Repositori ini berisi skrip SQL untuk membuat dan mengelola database sebuah toko elektronik. Proyek ini mendemonstrasikan operasi dasar **CRUD (Create, Read, Update, Delete)** serta penggunaan relasi antar tabel dengan `FOREIGN KEY` dan kueri `JOIN`.
 
 ## 📝 Abstrak Proyek
